@@ -1,1 +1,2 @@
-# Fake-Geologist
+# Geologist
+Geologist Project
